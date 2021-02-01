@@ -1,0 +1,2 @@
+D:\study_source\cpp_code\test2021.2.1\Project1\Debug\Project1.exe
+D:\study_source\cpp_code\test2021.2.1\Project1\Debug\Project1.pdb
